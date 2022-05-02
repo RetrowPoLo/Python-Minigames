@@ -8,8 +8,7 @@ import random
 
 
 try_counter = 5
-random_number = random.randint(0, 11)
-print(random_number)
+random_number = random.randint(0, 50)
 user_number = int(input())
 game_status = True
 
