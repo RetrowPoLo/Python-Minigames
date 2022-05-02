@@ -7,4 +7,3 @@ Game :
   - The hangman game (Coming soon)
   - Rock Paper Scissors (Coming soon)
   - Tic Tac Toe (Coming soon)
-  - 
