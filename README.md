@@ -1,2 +1,3 @@
 # Python-Minigames
-Python Minigames
+
+Minigames made with Python !
