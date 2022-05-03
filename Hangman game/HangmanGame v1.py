@@ -1,9 +1,10 @@
+#Find the mystery word !
 
 #_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
 
 # Version 1
 attemp = 7
-word = "electricite"
+word = "chair"
 display = ""
 letter_found = ""
 
@@ -49,9 +50,3 @@ while attemp > 0:
         break
 
 #_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
-
-
-
-# import random
-# choix = ["casserole", "cuillere", "patate", "souris"]
-# solution = random.choice(choix)
