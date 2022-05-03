@@ -14,7 +14,7 @@ for l in word:
 while attemp > 0:
     print(f" Word to find : {display} with {attemp} attemps ! ")
     proposal = input(" Submit a letter : ")
-                                        # |___ [0:1].lower()
+
     if proposal in word:
         letter_found = letter_found + proposal
         print(" You find a letter ! \n")
