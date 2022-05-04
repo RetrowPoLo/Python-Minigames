@@ -5,3 +5,6 @@ Version 1:
   - basic display
 
 Version 2:
+  - choice between 10 words
+  - better display with more interactive things
+  - only play one game
