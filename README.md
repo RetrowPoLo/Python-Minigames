@@ -4,6 +4,6 @@ Minigames made with Python !
 
 Game :
   - Guess the price (v2)
-  - The hangman game (v2)
+  - The hangman game (v3)
   - Rock Paper Scissors (Coming soon)
   - Tic Tac Toe (Coming soon)
